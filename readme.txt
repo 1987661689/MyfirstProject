@@ -1,1 +1,2 @@
 刚开始学习git github gitkraken
+这是在gitkraken创建的第一个项目，并与github连接
